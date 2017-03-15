@@ -1,0 +1,410 @@
+.header{
+	width:100%;
+	max-width:7.5rem;
+	height:1.54rem;
+	margin:0 auto;
+	background:url("../images/head.jpg") no-repeat center;
+	background-size: 7.49rem,1.54rem;
+}
+.header_logo{
+	width:7.5rem;
+	max-width:7.5rem;
+	height:0.98rem;
+	background:#303c44;
+	margin:0 auto;
+	position:relative;
+	
+}
+.header_logo span{
+	font-size:0.34rem;
+	position: absolute;
+	top:0.25rem;
+	left:1.02rem;
+	color:#fff;
+}
+.header_logo .logo{
+	width:0.58rem;
+	height:0.57rem;
+	position:absolute;
+	top:0.2rem;
+	left:0.2rem;
+}
+.header_logo .menu1{
+	width:0.44rem;
+	height:0.44rem;
+	position: absolute;
+	top:0.25rem;
+	right:0.45rem;
+}
+.hour{
+	width:100%;
+	max-width:7.5rem;
+	height:3.22rem;
+	margin: 0 auto;
+	background: url("../images/48hour.jpg") no-repeat center;
+	background-size: 7.49rem,3.22rem;
+	
+}
+.search{
+	width:100%;
+	max-width:7.5rem;
+	height:2.77rem;
+	margin:0 auto;
+	position: relative;
+	
+}
+.search .line{
+	width:5.46rem;
+	height:0.52rem;
+	
+	position:absolute;
+	left:1.02rem;
+
+	top: 0.4rem;
+	background: url("../images/line.jpg");
+	background-size:5.46rem,0.52rem ;
+	
+}
+.search .line p{
+	font-size: 0.3rem;
+	text-align: center;
+	line-height: 0.4rem;
+}
+.search form{
+	width:5.93rem;
+	position:absolute;
+	top:1.06rem;
+	left:0.63rem;
+}
+.search form .search_text{
+	width:4.08rem;
+	height:0.65rem;
+	border:1px solid #333;
+	border-top-left-radius:0.12rem;
+	border-bottom-left-radius: 0.12rem;
+	border-right:none;
+	font-size:0.24rem;
+}
+.search form .search_btn{
+	display: block;
+	width:1.83rem;
+	height:0.67rem;
+	background-color: #f13921;
+	color:#fff;
+	
+	font-size: 0.25rem;
+	text-align: center;
+	line-height: 0.7rem;
+	text-decoration:none;
+	float:right;
+	border-top-right-radius: 0.12rem;
+	border-bottom-right-radius: 0.12rem;
+
+}
+.search .p2{
+	position:absolute;
+	bottom:0.62rem;
+	left:1.83rem;
+	font-size:0.24rem;
+}
+.search .p2 span{
+	color:#f13921;
+}
+.result{
+	width:7.14rem;
+	height:3.63rem;
+	margin:0 auto 0.6rem;
+	position: relative;
+	border:1px solid #ccc;
+	border-radius: 0.2rem;
+}
+.result h3{
+	font-size:0.3rem ;
+	text-align: center;
+	line-height:0.7rem;
+}
+.result img{
+	width: 31px;
+	height: 31px;
+	position: absolute;
+	top: 15px;
+	right: 15px;
+}
+.result .p3{
+	font-size: 0.24rem;
+	position: absolute;
+	top:0.9rem;
+	left:0.27rem;
+}
+.result p input{
+	border:1px solid #333;
+	border-radius: 0.12rem;
+	width:5.15rem;
+	height:0.56rem;
+	font-size: 0.2rem;
+}
+.result .p4{
+	font-size: 0.24rem;
+	position: absolute;
+	bottom:1.2rem;
+	left:0.27rem;
+}
+
+.result .result_btn{
+	width:2.64rem;
+	height: 0.54rem;
+	position: absolute;
+	bottom:0.26rem;
+	left:2.24rem;
+	background-color: #f13921;
+	color:#fff;
+	font-size: 0.33rem;
+	border-radius: 0.12rem;
+	
+}
+.bg1{
+	width:100%;
+	max-width:7.5rem;
+	height:0.34rem;
+	margin:0 auto;
+	background:#efefef;
+}
+.patent{
+	Width:100%;
+	max-width:7.5rem;
+	height:4rem;
+	margin:0 auto;
+	position:relative;
+}
+.patent .patent_menu2{
+	width:0.34rem;
+	height:0.26rem;
+	position: absolute;
+	top:0.43rem;
+	left:0.22rem;
+}
+.patent span{
+	font-size:0.3rem ;
+	position: absolute;
+	top:0.43rem;
+	left:0.5rem;
+}
+.patent .patent1{
+	width:2.05rem;
+	height:2.3rem;
+	position: absolute;
+	bottom:0.44rem;
+	left:0.47rem;
+}
+.patent .patent2{
+	width:2.05rem;
+	height:2.3rem;
+	position: absolute;
+	bottom:0.44rem;
+	left:2.76rem;
+}
+.patent .patent3{
+	width:2.05rem;
+	height:2.3rem;
+	position: absolute;
+	bottom:0.44rem;
+	right:0.4rem;
+}
+.service{
+	Width:100%;
+	max-width:7.5rem;
+	height:5.67rem;
+	margin:0 auto;
+	position:relative;
+}
+.service .service_menu2{
+	width:0.34rem;
+	height:0.26rem;
+	position: absolute;
+	top:0.43rem;
+	left:0.22rem;
+}
+.service span{
+	font-size:0.3rem ;
+	position: absolute;
+	top:0.43rem;
+	left:0.5rem;
+}
+.service .service1{
+	width:3.18rem;
+	height:2.04rem;
+	position: absolute;
+	top:1.11rem;
+	left:0.47rem;
+}
+.service .service2{
+	width:3.18rem;
+	height:2.04rem;
+	position: absolute;
+	top:1.11rem;
+	right:0.4rem;
+}
+.service .service3{
+	width:3.18rem;
+	height:2.04rem;
+	position: absolute;
+	bottom:0.28rem;
+	left:0.47rem;
+}
+.service .service4{
+	width:3.18rem;
+	height:2.04rem;
+	position: absolute;
+	bottom:0.28rem;
+	right:0.4rem;
+}
+ .guide{
+ 	width:100%;
+	max-width:7.5rem;
+	height:8.85rem;
+	margin:0 auto;
+	
+}
+.guide .head{
+	width:7.5rem;
+	height:0.94rem;
+	border-bottom:1px solid #ccc ;
+}
+.guide .head .guide_menu2{
+	width:0.34rem;
+	height:0.26rem;
+	margin:0.28rem auto auto 0.2rem;
+}
+.guide .head span{
+	font-size:0.3rem ; 
+	margin-top:0.28rem ;
+}
+.guide .list{
+	width: 7.5rem;
+	height: 1.5rem;
+	border-bottom: 1px solid #ccc;
+	
+}
+
+.guide .list img{
+	width: 0.6rem;
+	height: 0.6rem;
+	margin-bottom:0.1rem;
+	margin-left:0.47rem;
+}
+.guide .list .text{
+	display: inline-block;
+	margin:0.4rem auto auto 0.43rem;;
+	
+}
+.guide .list h2{
+	color:#49443e;
+	font-size:0.3rem;
+}
+.guide .list p{
+	color:#8b8987;
+	font-size: 0.24rem;
+	line-height:0.4rem;
+}
+.guide .list span{
+	
+	float: right;
+	font-size: 0.3rem;
+	position:relative;
+	right:0.8rem;
+	top:0.7rem;
+	
+}
+ .answer{
+ 	width:100%;
+	max-width:7.5rem;
+	height:5.56rem;
+	margin:0 auto;
+	
+}
+.answer .head1{
+	width:7.5rem;
+	height:0.94rem;
+	
+}
+.answer .head1 .answer_menu2{
+	width:0.34rem;
+	height:0.26rem;
+	margin:0.28rem auto auto 0.2rem;
+}
+.answer .head1 span{
+	font-size:0.3rem ; 
+	margin-top:0.28rem ;
+}
+.answer .question{
+	width:7.5rem;
+	height: 1.5rem;
+}
+
+.answer .question .text{
+	display: inline-block;
+	float:left;
+	margin-top: 0.3rem;
+	margin-left:0.47rem;
+}
+.answer .question h2{
+	font-size: 0.26rem;
+	color:#49443e;
+}
+.answer .question h2 span{
+	color:#f13921;
+}
+.answer .question p{
+	font-size: 0.24rem;
+	color:#807f7d;
+	line-height: 0.5rem;
+}
+.answer .question>span{
+	display: inline-block;
+	float: right;
+	font-size: 0.3rem;
+	margin-top: 0.5rem;
+	position:relative;
+	right:0.8rem;
+	top:0.1rem;
+}
+.beijing{
+	width:100%;
+	max-width:7.5rem;
+	height:0.88rem;
+	margin:0 auto;
+	background: #efefef;
+	text-align: center;
+}
+.beijing p{
+	height:0.88rem;
+	line-height: 0.88rem;
+	font-size: 0.16rem;
+	color:#cec9c8;
+}
+.footer{
+	width:100%;
+	max-width:7.5rem;
+	height:1.74rem;
+	margin:0 auto;
+	background: #303c44;
+	overflow: hidden;
+}
+.footer ul{
+	width:6.2rem;
+	margin:0 auto;
+	display:flex;
+	justify-content:space-between;
+}
+.footer ul li img{
+	width:0.52rem;
+	height:0.51rem;
+	margin-top: 0.55rem;
+	
+}
+.footer ul li p{
+	font-size:0.19rem;
+	text-align: center;
+	line-height: 0.4rem;
+	color:#fff;
+} 
